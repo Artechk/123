@@ -1,5 +1,4 @@
 <script type="application/javascript">
-</script>
 var names = '\
 OMIN\n\
 2019年要加油哦\n\
@@ -856,3 +855,4 @@ $(document).ready(function () {
   }, 4000);
   
 });
+</script>
